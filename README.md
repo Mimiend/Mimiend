@@ -17,8 +17,8 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mimiend&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&locale=en" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimiend&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&locale=en" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Mimiend/Mimiend/main/generated/overview.svg" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/Mimiend/Mimiend/main/generated/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
