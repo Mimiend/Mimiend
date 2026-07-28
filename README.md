@@ -12,13 +12,12 @@
 
 ###
 
-<p data-importer="text" align="left"></p>
+<h4 data-importer="text" align="center">🎯 Looking for my first opportunity as a Front-End Developer.</h4>
 
 ###
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/Mimiend/Mimiend/main/generated/overview.svg" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Mimiend/Mimiend/main/generated/languages.svg" height="150" alt="languages graph"  />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Mimiend/Mimiend/main/metrics.svg" alt="GitHub metrics" />
 </div>
 
 ###

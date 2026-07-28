@@ -11,7 +11,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate stats images
-        uses: jstrieb/github-stats@master
+      - name: Generate stats image
+        uses: lowlighter/metrics@latest
         with:
-          access_token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.ACCESS_TOKEN }}
+          filename: metrics.svg
+          theme: dracula
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 0%
