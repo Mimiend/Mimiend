@@ -14,11 +14,6 @@
 
 <h4 data-importer="text" align="center">🎯 Looking for my first opportunity as a Front-End Developer.</h4>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Mimiend/Mimiend/main/metrics.svg" alt="GitHub metrics" />
-</div>
 
 ###
 
